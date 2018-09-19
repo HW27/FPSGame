@@ -69,6 +69,17 @@ artifacts/
 *.pidb
 *.svclog
 *.scc
+*.sln
+*.uasset
+*.bin
+*.ubt
+*.uhtmanifest
+*.ini
+Content/*
+Config/*
+Binaries/*
+Saved/*
+Intermediate/*
 
 # Chutzpah Test files
 _Chutzpah*
@@ -95,20 +106,6 @@ $tf/
 
 # Guidance Automation Toolkit
 *.gpState
-
-# ReSharper is a .NET coding add-in
-_ReSharper*/
-*.[Rr]e[Ss]harper
-*.DotSettings.user
-
-# JustCode is a .NET coding add-in
-.JustCode
-
-# TeamCity is a build add-in
-_TeamCity*
-
-# DotCover is a Code Coverage Tool
-*.dotCover
 
 # NCrunch
 _NCrunch_*
